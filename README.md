@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+📊 Cryptocurrency Dashboard
+The Cryptocurrency Dashboard is a responsive, front-end web application that provides users with real-time data and visual insights into the dynamic world of cryptocurrencies. This project is designed to fetch and display key metrics such as live prices, market cap, price charts, and historical trends of major cryptocurrencies.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🚀 Features
+💹 Live price updates for top cryptocurrencies
 
-## Available Scripts
+📈 Interactive price charts
 
-In the project directory, you can run:
+🔍 Search and filter functionality
 
-### `npm start`
+📊 Key statistics like market cap, 24h volume, and rank
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+📱 Responsive design suitable for mobile, tablet, and desktop
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+🌙 Light and dark mode support
 
-### `npm test`
+🛠️ Tech Stack
+React.js – Component-based UI development
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Chakra UI – Accessible and customizable component library for styling
 
-### `npm run build`
+Tailwind CSS – Utility-first CSS framework for custom styling
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Axios – For API requests (e.g., CoinGecko/CoinMarketCap API)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+React Router – For navigation and routing within the app
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Chart.js / Recharts – For visualizing price data
 
-### `npm run eject`
+🎯 Purpose & Usefulness
+This dashboard helps users, investors, and crypto enthusiasts keep track of the cryptocurrency market in a visually intuitive and informative manner. It's ideal for users who want a quick and clean overview of the market without diving into full trading platforms.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+⚠️ Note: This is a front-end only project and does not include any backend or database integrations.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
